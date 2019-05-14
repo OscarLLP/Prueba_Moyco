@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 10px 40px 0 40px;
+}
+
+h1,h2{
+    color: black;
+    font-size: 20px;    
+}
+
+.header{
+    text-align: center
+}
+
+.header a {
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+}
+
+.main_text{
+    text-align: center;
+}
+
+.main_section{
+    display: flex;
+}
+
+.landing_1{
+    height: 400px;
+}
+
+.features{
+    background-color: #f6f6f6;
+}
+
+.text_features{
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+}
+.cards_pictures{
+    width: 300px;
+}
+
+.second_section{
+    display: flex;
+}
+
+.pictures{
+    height: 300px;
+}   
+
+.text_testimonials{
+    text-align: center;
+}
+
+.content_image{
+    text-align: center;
+}
+.image_testimonials{
+    height: 80px;
+}
+ 
+.content_text{
+    text-align: center;
+    width: 300px;
+}
+
+.main_form{
+    
+}
+
